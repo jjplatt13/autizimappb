@@ -1,0 +1,20 @@
+{
+  "python.defaultInterpreterPath": "C:/Users/zubby/AUTIZIM BOT/.venv/Scripts/python.exe",
+  "python.terminal.activateEnvironment": true,
+
+  "python.analysis.extraPaths": [
+    "C:/Users/zubby/AUTIZIM BOT"
+  ],
+
+  "files.exclude": {
+    "**/.venv": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/_ARCHIVE_DO_NOT_TOUCH": true
+  },
+
+  "python.analysis.exclude": [
+    "**/.venv",
+    "**/_ARCHIVE_DO_NOT_TOUCH"
+  ]
+}
